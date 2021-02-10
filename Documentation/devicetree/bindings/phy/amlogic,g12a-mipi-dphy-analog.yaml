@@ -33,3 +33,4 @@ examples:
           reg = <0x0 0xc>;
           #phy-cells = <0>;
     };
+
